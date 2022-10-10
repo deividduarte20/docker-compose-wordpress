@@ -1,6 +1,6 @@
 # docker-compose-wordpress
 
-# Edite as informações do arquivo docker-compose.yaml
+### Edite as informações do arquivo docker-compose.yaml
 WORDPRESS_DB_PASSWORD=digite_senha_sua_preferencia
 - "digite_ip_da_sua_maquina:80:80"
 - MYSQL_ROOT_PASSWORD=digite_senha_sua_preferencia
